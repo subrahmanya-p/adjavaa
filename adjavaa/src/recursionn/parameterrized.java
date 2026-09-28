@@ -12,6 +12,6 @@ public class parameterrized {
 	}
 
 	public static void main(String[] args) {
-sum(5, 0);
+		sum(5, 0);
 	}
 }
